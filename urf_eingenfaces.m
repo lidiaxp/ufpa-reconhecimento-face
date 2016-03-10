@@ -13,4 +13,6 @@ function model = urf_eigenfaces(X, y, num_eigenfaces)
   %   .num_eigenfaces: número de eigenfaces
   %   .W: uma matriz com as eigenfaces retiradas de cada vetor de |X|
   %   .P: a projeção de |X| // não entendi
+  %oi
+  
 end
